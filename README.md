@@ -1,2 +1,2 @@
 # csharp-http-template
-Csharp template for OpenFaaS using HTTP
+C# template for OpenFaaS using HTTP mode
